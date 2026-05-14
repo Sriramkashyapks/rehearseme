@@ -1,0 +1,36 @@
+# Python  
+__pycache__/  
+*.py[cod]  
+*$py.class  
+*.so  
+.Python  
+venv/  
+env/  
+ENV/  
+.venv  
+
+# FastAPI / Backend  
+.env  
+.env.local  
+*.log  
+
+# Node / Frontend  
+node_modules/  
+.next/  
+out/  
+dist/  
+build/  
+
+# IDE  
+.vscode/  
+.idea/  
+*.swp  
+*.swo  
+*~  
+
+# OS  
+.DS_Store  
+Thumbs.db  
+
+# Docker  
+*.log
